@@ -25,7 +25,14 @@
 
 ol {
   text-align: left;
-  margin: auto;
-  display: block;
   font-size: 18px;
+}
+
+.query {
+  text-align: left;
+}
+
+.col {
+  max-width: 50%;
+  display: inline-block;
 }
